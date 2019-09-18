@@ -1,0 +1,21 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+body {
+    background-image:url("../images/Hacknet.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-color: black;
+  }
+p {
+  color: white;
+}
+button {
+  align-self:flex-end;
+
+}
